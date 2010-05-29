@@ -52,7 +52,6 @@ slink /init sbin/init 0777 0 0
 dir /sbin 0775 0 0
 file /sbin/adbd /home/moment/de03/kernel/initramfs/sbin/adbd 0775 0 0
 file /sbin/init /home/moment/de03/kernel/initramfs/sbin/init 0775 0 0
-file /sbin/memps /home/moment/de03/kernel/initramfs/sbin/memps 0775 0 0
 file /sbin/su /home/moment/de03/kernel/initramfs/sbin/su 4775 0 0
 file /sbin/busybox /home/moment/de03/kernel/initramfs/sbin/busybox 0775 0 0
 file /sbin/sdx.sh /home/moment/de03/kernel/initramfs/sbin/sdx.sh 0775 0 0
