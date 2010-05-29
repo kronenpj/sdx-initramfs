@@ -3,8 +3,17 @@
 /system/bin/mount -o remount,rw -t rfs /dev/stl5 /system
 /system/bin/rm /system/bin/su
 /system/bin/rm /system/xbin/su
+/system/bin/rm /system/bin/ifconfig
+/system/bin/rm /system/xbin/ifconfig
+/system/bin/rm /system/bin/route
+/system/bin/rm /system/xbin/route
 /system/bin/ln -s /sbin/su /system/bin/su
 /system/bin/ln -s /sbin/su /system/xbin/su
+/system/bin/ln -s /sbin/busybox /system/bin/ifconfig
+/system/bin/ln -s /sbin/busybox /system/xbin/ifconfig
+/system/bin/ln -s /sbin/busybox /system/bin/route
+/system/bin/ln -s /sbin/busybox /system/xbin/route
+/sbin/busybox install -s
 # fix busybox DNS while system is read-write
 if [ ! -f "/system/etc/resolv.conf" ]; then
   echo "nameserver 8.8.8.8" >> /system/etc/resolv.conf
