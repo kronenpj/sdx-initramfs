@@ -26,7 +26,6 @@ dir /bin 0775 0 0
 dir /lib 0775 0 0
 dir /lib/modules 0775 0 0
 file /lib/modules/btgpio.ko /home/joeykrim/kernel/initramfs/lib/modules/btgpio.ko 0664 0 0
-file /lib/modules/crc32.ko /home/joeykrim/kernel/initramfs/lib/modules/crc32.ko 0664 0 0
 file /lib/modules/dhd.ko /home/joeykrim/kernel/initramfs/lib/modules/dhd.ko 0664 0 0
 file /lib/modules/dpram.ko /home/joeykrim/kernel/initramfs/lib/modules/dpram.ko 0664 0 0
 file /lib/modules/param.ko /home/joeykrim/kernel/initramfs/lib/modules/param.ko 0664 0 0
