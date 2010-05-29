@@ -57,6 +57,7 @@ file /sbin/busybox /home/moment/de03/kernel/initramfs/sbin/busybox 0775 0 0
 file /sbin/sdx.sh /home/moment/de03/kernel/initramfs/sbin/sdx.sh 0775 0 0
 file /sbin/flash_image /home/moment/de03/kernel/initramfs/sbin/flash_image 0775 0 0
 file /sbin/remount /home/moment/de03/kernel/initramfs/sbin/remount 0775 0 0
+file /sbin/install_zip /home/moment/de03/kernel/initramfs/sbin/install_zip 0775 0 0
 dir /sbin/images 0775 0 0
 file /sbin/images/icon.png /home/moment/de03/kernel/initramfs/sbin/images/icon.png 0775 0 0
 dir /system 0775 0 0
