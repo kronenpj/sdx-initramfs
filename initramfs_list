@@ -1,86 +1,86 @@
 dir /sys 0775 0 0
-file /sys/stgloc /home/moment/de03/kernel/initramfs/sys/stgloc 0664 0 0
+file /sys/stgloc /home/joeykrim/kernel/initramfs/sys/stgloc 0664 0 0
 dir /tmp 0775 0 0
-file /tmp/melfas_ts_input.kcm.bin /home/moment/de03/kernel/initramfs/tmp/melfas_ts_input.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev0000.kcm.bin /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0000.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev0000.kl /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0000.kl 0664 0 0
-file /tmp/s3c-keypad-rev001a.kcm.bin /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev001a.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev001a.kl /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev001a.kl 0664 0 0
-file /tmp/s3c-keypad-rev0020.kcm.bin /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0010.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev0010.kl /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0010.kl 0664 0 0
-file /tmp/s3c-keypad-rev0020.kcm.bin /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0020.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev0020.kl /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0020.kl 0664 0 0
-file /tmp/s3c-keypad-rev0030.kcm.bin /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0030.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev0020.kl /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0030.kl 0664 0 0
-file /tmp/s3c-keypad-rev0040.kcm.bin /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0040.kcm.bin 0666 0 0
-file /tmp/s3c-keypad-rev0040.kl /home/moment/de03/kernel/initramfs/tmp/s3c-keypad-rev0040.kl 0664 0 0
-file /tmp/sec_headset.kl /home/moment/de03/kernel/initramfs/tmp/sec_headset.kl 0775 0 0
+file /tmp/melfas_ts_input.kcm.bin /home/joeykrim/kernel/initramfs/tmp/melfas_ts_input.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev0000.kcm.bin /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0000.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev0000.kl /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0000.kl 0664 0 0
+file /tmp/s3c-keypad-rev001a.kcm.bin /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev001a.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev001a.kl /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev001a.kl 0664 0 0
+file /tmp/s3c-keypad-rev0020.kcm.bin /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0010.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev0010.kl /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0010.kl 0664 0 0
+file /tmp/s3c-keypad-rev0020.kcm.bin /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0020.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev0020.kl /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0020.kl 0664 0 0
+file /tmp/s3c-keypad-rev0030.kcm.bin /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0030.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev0020.kl /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0030.kl 0664 0 0
+file /tmp/s3c-keypad-rev0040.kcm.bin /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0040.kcm.bin 0666 0 0
+file /tmp/s3c-keypad-rev0040.kl /home/joeykrim/kernel/initramfs/tmp/s3c-keypad-rev0040.kl 0664 0 0
+file /tmp/sec_headset.kl /home/joeykrim/kernel/initramfs/tmp/sec_headset.kl 0775 0 0
 dir /tmp/bootchart 0775 0 0
-file /tmp/bootchart/stgloc /home/moment/de03/kernel/initramfs/tmp/bootchart/stgloc 0664 0 0
-file /init.rc /home/moment/de03/kernel/initramfs/init.rc 0664 0 0
-file /init.SPH-M900.rc /home/moment/de03/kernel/initramfs/init.SPH-M900.rc 0664 0 0
-file /init.goldfish.rc /home/moment/de03/kernel/initramfs/init.goldfish.rc 0664 0 0
-file /recovery.rc /home/moment/de03/kernel/initramfs/recovery.rc 0664 0 0
+file /tmp/bootchart/stgloc /home/joeykrim/kernel/initramfs/tmp/bootchart/stgloc 0664 0 0
+file /init.rc /home/joeykrim/kernel/initramfs/init.rc 0664 0 0
+file /init.SPH-M900.rc /home/joeykrim/kernel/initramfs/init.SPH-M900.rc 0664 0 0
+file /init.goldfish.rc /home/joeykrim/kernel/initramfs/init.goldfish.rc 0664 0 0
+file /recovery.rc /home/joeykrim/kernel/initramfs/recovery.rc 0664 0 0
 slink /etc system/etc 0777 0 0
 dir /bin 0775 0 0
 dir /lib 0775 0 0
 dir /lib/modules 0775 0 0
-file /lib/modules/btgpio.ko /home/moment/de03/kernel/initramfs/lib/modules/btgpio.ko 0664 0 0
-file /lib/modules/dhd.ko /home/moment/de03/kernel/initramfs/lib/modules/crc32.ko 0664 0 0
-file /lib/modules/dhd.ko /home/moment/de03/kernel/initramfs/lib/modules/dhd.ko 0664 0 0
-file /lib/modules/dpram.ko /home/moment/de03/kernel/initramfs/lib/modules/dpram.ko 0664 0 0
-file /lib/modules/param.ko /home/moment/de03/kernel/initramfs/lib/modules/param.ko 0664 0 0
-file /lib/modules/rfs.ko /home/moment/de03/kernel/initramfs/lib/modules/rfs.ko 0664 0 0
-file /lib/modules/s3c_camera.ko /home/moment/de03/kernel/initramfs/lib/modules/s3c_camera.ko 0664 0 0
-file /lib/modules/s3c_cmm.ko /home/moment/de03/kernel/initramfs/lib/modules/s3c_cmm.ko 0664 0 0
-file /lib/modules/s3c_g2d_driver.ko /home/moment/de03/kernel/initramfs/lib/modules/s3c_g2d_driver.ko 0664 0 0
-file /lib/modules/s3c_g3d.ko /home/moment/de03/kernel/initramfs/lib/modules/s3c_g3d.ko 0664 0 0
-file /lib/modules/s3c_jpeg.ko /home/moment/de03/kernel/initramfs/lib/modules/s3c_jpeg.ko 0664 0 0
-file /lib/modules/s3c_mfc.ko /home/moment/de03/kernel/initramfs/lib/modules/s3c_mfc.ko 0664 0 0
-file /lib/modules/s3c_pp.ko /home/moment/de03/kernel/initramfs/lib/modules/s3c_pp.ko 0664 0 0
-file /lib/modules/s3c_rotator.ko /home/moment/de03/kernel/initramfs/lib/modules/s3c_rotator.ko 0664 0 0
-file /lib/modules/vibrator.ko /home/moment/de03/kernel/initramfs/lib/modules/vibrator.ko 0664 0 0
-file /lib/modules/xsr_debug.ko /home/moment/de03/kernel/initramfs/lib/modules/xsr_debug.ko 0664 0 0
-file /lib/modules/xsr.ko /home/moment/de03/kernel/initramfs/lib/modules/xsr.ko 0664 0 0
-file /lib/modules/xsr_stl.ko /home/moment/de03/kernel/initramfs/lib/modules/xsr_stl.ko 0664 0 0
-file /lib/modules/stgloc /home/moment/de03/kernel/initramfs/lib/modules/stgloc 0664 0 0
+file /lib/modules/btgpio.ko /home/joeykrim/kernel/initramfs/lib/modules/btgpio.ko 0664 0 0
+file /lib/modules/crc32.ko /home/joeykrim/kernel/initramfs/lib/modules/crc32.ko 0664 0 0
+file /lib/modules/dhd.ko /home/joeykrim/kernel/initramfs/lib/modules/dhd.ko 0664 0 0
+file /lib/modules/dpram.ko /home/joeykrim/kernel/initramfs/lib/modules/dpram.ko 0664 0 0
+file /lib/modules/param.ko /home/joeykrim/kernel/initramfs/lib/modules/param.ko 0664 0 0
+file /lib/modules/rfs.ko /home/joeykrim/kernel/initramfs/lib/modules/rfs.ko 0664 0 0
+file /lib/modules/s3c_camera.ko /home/joeykrim/kernel/initramfs/lib/modules/s3c_camera.ko 0664 0 0
+file /lib/modules/s3c_cmm.ko /home/joeykrim/kernel/initramfs/lib/modules/s3c_cmm.ko 0664 0 0
+file /lib/modules/s3c_g2d_driver.ko /home/joeykrim/kernel/initramfs/lib/modules/s3c_g2d_driver.ko 0664 0 0
+file /lib/modules/s3c_g3d.ko /home/joeykrim/kernel/initramfs/lib/modules/s3c_g3d.ko 0664 0 0
+file /lib/modules/s3c_jpeg.ko /home/joeykrim/kernel/initramfs/lib/modules/s3c_jpeg.ko 0664 0 0
+file /lib/modules/s3c_mfc.ko /home/joeykrim/kernel/initramfs/lib/modules/s3c_mfc.ko 0664 0 0
+file /lib/modules/s3c_pp.ko /home/joeykrim/kernel/initramfs/lib/modules/s3c_pp.ko 0664 0 0
+file /lib/modules/s3c_rotator.ko /home/joeykrim/kernel/initramfs/lib/modules/s3c_rotator.ko 0664 0 0
+file /lib/modules/vibrator.ko /home/joeykrim/kernel/initramfs/lib/modules/vibrator.ko 0664 0 0
+file /lib/modules/xsr_debug.ko /home/joeykrim/kernel/initramfs/lib/modules/xsr_debug.ko 0664 0 0
+file /lib/modules/xsr.ko /home/joeykrim/kernel/initramfs/lib/modules/xsr.ko 0664 0 0
+file /lib/modules/xsr_stl.ko /home/joeykrim/kernel/initramfs/lib/modules/xsr_stl.ko 0664 0 0
+file /lib/modules/stgloc /home/joeykrim/kernel/initramfs/lib/modules/stgloc 0664 0 0
 dir /.info 0775 0 0
-file /.info/rootfs.info /home/moment/de03/kernel/initramfs/.info/rootfs.info 0664 0 0
+file /.info/rootfs.info /home/joeykrim/kernel/initramfs/.info/rootfs.info 0664 0 0
 dir /proc 0775 0 0
-file /proc/stgloc /home/moment/de03/kernel/initramfs/proc/stgloc 0664 0 0
+file /proc/stgloc /home/joeykrim/kernel/initramfs/proc/stgloc 0664 0 0
 slink /init sbin/init 0777 0 0
 dir /sbin 0775 0 0
-file /sbin/adbd /home/moment/de03/kernel/initramfs/sbin/adbd 0775 0 0
-file /sbin/init /home/moment/de03/kernel/initramfs/sbin/init 0775 0 0
-file /sbin/su /home/moment/de03/kernel/initramfs/sbin/su 4775 0 0
-file /sbin/busybox /home/moment/de03/kernel/initramfs/sbin/busybox 0775 0 0
-file /sbin/sdx.sh /home/moment/de03/kernel/initramfs/sbin/sdx.sh 0775 0 0
-file /sbin/flash_image /home/moment/de03/kernel/initramfs/sbin/flash_image 0775 0 0
-file /sbin/remount /home/moment/de03/kernel/initramfs/sbin/remount 0775 0 0
-file /sbin/install_zip /home/moment/de03/kernel/initramfs/sbin/install_zip 0775 0 0
+file /sbin/adbd /home/joeykrim/kernel/initramfs/sbin/adbd 0775 0 0
+file /sbin/init /home/joeykrim/kernel/initramfs/sbin/init 0775 0 0
+file /sbin/su /home/joeykrim/kernel/initramfs/sbin/su 4775 0 0
+file /sbin/busybox /home/joeykrim/kernel/initramfs/sbin/busybox 0775 0 0
+file /sbin/sdx.sh /home/joeykrim/kernel/initramfs/sbin/sdx.sh 0775 0 0
+file /sbin/flash_image /home/joeykrim/kernel/initramfs/sbin/flash_image 0775 0 0
+file /sbin/remount /home/joeykrim/kernel/initramfs/sbin/remount 0775 0 0
+file /sbin/install_zip /home/joeykrim/kernel/initramfs/sbin/install_zip 0775 0 0
 dir /sbin/images 0775 0 0
-file /sbin/images/icon.png /home/moment/de03/kernel/initramfs/sbin/images/icon.png 0775 0 0
+file /sbin/images/icon.png /home/joeykrim/kernel/initramfs/sbin/images/icon.png 0775 0 0
 dir /system 0775 0 0
 dir /system/etc 0775 0 0
-file /system/etc/ld.so.cache /home/moment/de03/kernel/initramfs/system/etc/ld.so.cache 0644 0 0
-file /default.prop /home/moment/de03/kernel/initramfs/default.prop 0664 0 0
+file /system/etc/ld.so.cache /home/joeykrim/kernel/initramfs/system/etc/ld.so.cache 0644 0 0
+file /default.prop /home/joeykrim/kernel/initramfs/default.prop 0664 0 0
 dir /dev 0775 0 0
-file /dev/stgloc /home/moment/de03/kernel/initramfs/dev/stgloc 0664 0 0
+file /dev/stgloc /home/joeykrim/kernel/initramfs/dev/stgloc 0664 0 0
 dir /res 0775 0 0
 dir /res/images 0775 0 0
-file /res/images/icon_error.png /home/moment/de03/kernel/initramfs/res/images/icon_error.png 0664 0 0
-file /res/images/icon_firmware_error.png /home/moment/de03/kernel/initramfs/res/images/icon_firmware_error.png 0664 0 0
-file /res/images/icon_firmware_install.png /home/moment/de03/kernel/initramfs/res/images/icon_firmware_install.png 0664 0 0
-file /res/images/icon_installing.png /home/moment/de03/kernel/initramfs/res/images/icon_installing.png 0664 0 0
-file /res/images/indeterminate1.png /home/moment/de03/kernel/initramfs/res/images/indeterminate1.png 0664 0 0
-file /res/images/indeterminate2.png /home/moment/de03/kernel/initramfs/res/images/indeterminate2.png 0664 0 0
-file /res/images/indeterminate3.png /home/moment/de03/kernel/initramfs/res/images/indeterminate3.png 0664 0 0
-file /res/images/indeterminate4.png /home/moment/de03/kernel/initramfs/res/images/indeterminate4.png 0664 0 0
-file /res/images/indeterminate5.png /home/moment/de03/kernel/initramfs/res/images/indeterminate5.png 0664 0 0
-file /res/images/indeterminate6.png /home/moment/de03/kernel/initramfs/res/images/indeterminate6.png 0664 0 0
-file /res/images/progress_bar_empty_left_round.png /home/moment/de03/kernel/initramfs/res/images/progress_bar_empty_left_round.png 0664 0 0
-file /res/images/progress_bar_empty.png /home/moment/de03/kernel/initramfs/res/images/progress_bar_empty.png 0664 0 0
-file /res/images/progress_bar_empty_right_round.png /home/moment/de03/kernel/initramfs/res/images/progress_bar_empty_right_round.png 0664 0 0
-file /res/images/progress_bar_fill.png /home/moment/de03/kernel/initramfs/res/images/progress_bar_fill.png 0664 0 0
-file /res/images/progress_bar_left_round.png /home/moment/de03/kernel/initramfs/res/images/progress_bar_left_round.png 0664 0 0
-file /res/images/progress_bar_right_round.png /home/moment/de03/kernel/initramfs/res/images/progress_bar_right_round.png 0664 0 0
+file /res/images/icon_error.png /home/joeykrim/kernel/initramfs/res/images/icon_error.png 0664 0 0
+file /res/images/icon_firmware_error.png /home/joeykrim/kernel/initramfs/res/images/icon_firmware_error.png 0664 0 0
+file /res/images/icon_firmware_install.png /home/joeykrim/kernel/initramfs/res/images/icon_firmware_install.png 0664 0 0
+file /res/images/icon_installing.png /home/joeykrim/kernel/initramfs/res/images/icon_installing.png 0664 0 0
+file /res/images/indeterminate1.png /home/joeykrim/kernel/initramfs/res/images/indeterminate1.png 0664 0 0
+file /res/images/indeterminate2.png /home/joeykrim/kernel/initramfs/res/images/indeterminate2.png 0664 0 0
+file /res/images/indeterminate3.png /home/joeykrim/kernel/initramfs/res/images/indeterminate3.png 0664 0 0
+file /res/images/indeterminate4.png /home/joeykrim/kernel/initramfs/res/images/indeterminate4.png 0664 0 0
+file /res/images/indeterminate5.png /home/joeykrim/kernel/initramfs/res/images/indeterminate5.png 0664 0 0
+file /res/images/indeterminate6.png /home/joeykrim/kernel/initramfs/res/images/indeterminate6.png 0664 0 0
+file /res/images/progress_bar_empty_left_round.png /home/joeykrim/kernel/initramfs/res/images/progress_bar_empty_left_round.png 0664 0 0
+file /res/images/progress_bar_empty.png /home/joeykrim/kernel/initramfs/res/images/progress_bar_empty.png 0664 0 0
+file /res/images/progress_bar_empty_right_round.png /home/joeykrim/kernel/initramfs/res/images/progress_bar_empty_right_round.png 0664 0 0
+file /res/images/progress_bar_fill.png /home/joeykrim/kernel/initramfs/res/images/progress_bar_fill.png 0664 0 0
+file /res/images/progress_bar_left_round.png /home/joeykrim/kernel/initramfs/res/images/progress_bar_left_round.png 0664 0 0
+file /res/images/progress_bar_right_round.png /home/joeykrim/kernel/initramfs/res/images/progress_bar_right_round.png 0664 0 0
